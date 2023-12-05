@@ -1,0 +1,37 @@
+.home{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+}
+.big-box{
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+}
+button{
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+}
+#pastel1 button{
+    background-color: #d4afb9;
+}
+#pastel2 button{
+    background-color: #d1cfe2;
+}
+#pastel3 button{
+    background-color: #9cadce;
+}
+#pastel4 button{
+    background-color: #7ec4cf;
+}
+#pastel5 button{
+    background-color: #daeaf6;
+}
